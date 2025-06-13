@@ -52,7 +52,7 @@ I am a Full‑Stack Developer and Entrepreneur passionate about crafting scalabl
 | Project                                 | Description                                              | Tech      | Link                                       |
 |-----------------------------------------|----------------------------------------------------------|-----------|--------------------------------------------|
 | **ZeroD**                               | AI‑powered platform for social impact                    | Rust, React, Prisma | [GitHub](https://github.com/AFIF-ZILANI/ZeroD) |
-| **Global Harmony Initiative (GHI)**     | 11‑sector nonprofit merging tech & humanitarian aid      | Next.js, MongoDB | [Website](#)                              |
+| **Book Kart**     | A Platform for Buy & Sell Book Online In Bangladesh      | Next.js, MongoDB, Auth.js,  |[GitHub](https://github.com/AFIF-ZILANI/book-kart)                 |
 | **Portfolio Website**                   | Personal site showcasing projects & blog                 | Next.js, Tailwind | [Live](#)                                  |
 
 ---
