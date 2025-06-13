@@ -61,7 +61,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
+<p display="flex" justify-content="justify-between">
   <img src="https://github-readme-stats.vercel.app/api?username=AFIF-ZILANI&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFIF-ZILANI&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
