@@ -69,7 +69,7 @@ I am a Full‑Stack Developer and Entrepreneur passionate about crafting scalabl
 </div>
 <br clear="both"/>
 
---
+***
 
 <div align="left>
   <img align="left" alt="Next.js"        src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
