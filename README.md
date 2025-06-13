@@ -15,10 +15,10 @@
   <a href="https://komarev.com/ghpvc/?username=afifzilani">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=afifzilani&color=blue" />
   </a>
-  <a href="https://github.com/afifzilani?tab=repositories&sort=stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/afifzilani?style=flat&logo=github" />
+  <a href="https://github.com/AFIF-ZILANI?tab=repositories&sort=stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/AFIF-ZILANI?style=flat&logo=github" />
   </a>
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/afifzilani/afifzilani?style=flat" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/AFIF-ZILANI/AFIF-ZILANI?style=flat" />
 </p>
 
 <p align="center">
@@ -62,8 +62,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afifzilani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifzilani&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AFIF-ZILANI&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFIF-ZILANI&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -73,13 +73,13 @@
   <a href="mailto:afifzilani4566@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/afif-zilani/">
+  <a href="https://www.linkedin.com/in/afifzilani/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/afifzilani">
+  <a href="https://twitter.com/afif_zilani">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/afifzilani">
+  <a href="https://github.com/AFIF-ZILANI">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
 </p>
