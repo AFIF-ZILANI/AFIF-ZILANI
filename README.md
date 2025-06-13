@@ -67,6 +67,7 @@ I am a Full‑Stack Developer and Entrepreneur passionate about crafting scalabl
   <img align="left" alt="Pandas"         src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img align="left" alt="NumPy"          src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
 </div>
+<br clear="both"/>
 <div align="left>
 <img align="left" alt="Polars"         src="https://img.shields.io/badge/Polars-5C4D7D?logo=polars&logoColor=white&style=for-the-badge" />
   <img align="left" alt="React"          src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
@@ -81,6 +82,7 @@ I am a Full‑Stack Developer and Entrepreneur passionate about crafting scalabl
   <img align="left" alt="Prisma"         src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
   <img align="left" alt="Redis"          src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 </div>
+<br clear="both"/>
 <div align="left">
   <img align="left" alt="Redux"          src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img align="left" alt="Redux Toolkit"  src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
