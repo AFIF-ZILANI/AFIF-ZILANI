@@ -29,10 +29,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently building **ZeroD**, an AI‑powered platform, and leading the **Global Harmony Initiative**.
-- 🌱 I’m exploring **Rust-based microservices** and **AI-driven social applications**.
-- 💬 Ask me about **Next.js**, **Tailwind CSS**, **MongoDB**, or **Figma**.
-- 🤝 I’m passionate about **poverty alleviation**, **financial inclusion**, and **community-driven tech**.
+I am a Full‑Stack Developer and Entrepreneur passionate about crafting scalable web applications and AI solutions. With expertise in modern technologies, I deliver products that drive real impact and growth. Looking to hire a dedicated developer or explore partnership opportunities? Let’s build something extraordinary together! 
 
 ---
 
