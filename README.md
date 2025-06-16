@@ -5,7 +5,8 @@
  ██╔══██║╚════██║██╔══╝  ██║██╔══╝  ██╔══██╗  ╚██╔╝  
  ██║  ██║███████║███████╗██║███████╗██║  ██║   ██║   
  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   
-  
+
+  -===-
   🎯 Tailor this template: replace placeholders like <YOUR_NAME> 
   and <YOUR_PROJECT> with your own details!
 -->
