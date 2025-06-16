@@ -5,10 +5,6 @@
  ██╔══██║╚════██║██╔══╝  ██║██╔══╝  ██╔══██╗  ╚██╔╝  
  ██║  ██║███████║███████╗██║███████╗██║  ██║   ██║   
  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   
-
-  -===-
-  🎯 Tailor this template: replace placeholders like <YOUR_NAME> 
-  and <YOUR_PROJECT> with your own details!
 -->
 
 <h1 align="center">👋 Hi, I’m <strong>AFIF ZILANI</strong></h1>
