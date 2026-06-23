@@ -35,7 +35,7 @@
 
 Full-stack and mobile developer from Naogaon, Bangladesh. I build real products and run real businesses — not side projects.
 
-Founder of [ZeroD Agency](https://github.com/zerodagencies) (web & mobile dev), ZeroD Foundation (health tech for rural BD), and ZeroD Farms (20,000 poultry/month, tech-assisted). I write TypeScript by day, manage a poultry operation by night, and somewhere in between I'm shipping a gamified learning platform.
+Founder of [ZeroD Agency](https://zagency-theta.vercel.app) (web & mobile dev), ZeroD Foundation (health tech for rural BD), and ZeroD Farms (20,000 poultry/month, tech-assisted). I write TypeScript by day, manage a poultry operation by night, and somewhere in between I'm shipping a gamified learning platform.
 
 ---
 
